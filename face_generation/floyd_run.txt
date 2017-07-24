@@ -1,0 +1,2 @@
+floyd init dlnd_face_generation
+floyd run --gpu --env tensorflow --mode jupyter --data R5KrjnANiKVhLWAkpXhNBe
