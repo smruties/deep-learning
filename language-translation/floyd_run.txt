@@ -1,0 +1,2 @@
+floyd init language-translation
+floyd run --gpu --env tensorflow --mode jupyter
